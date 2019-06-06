@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "my stream title",
+      "description": "my stream description",
+      "userID": "117313615179784552130",
+      "id": 1
+    },
+    {
+      "title": "rithi steam update",
+      "description": "rithi description update",
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "description": "ds",
+      "userID": "103733216078504896250",
+      "id": 3
+    }
+  ]
+}
